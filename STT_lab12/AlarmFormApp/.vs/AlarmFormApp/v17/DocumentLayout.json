@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LABAdmin\\source\\repos\\AlarmFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1A515-F624-4FBE-B267-1ACBB5AF87B4}|AlarmFormApp\\AlarmFormApp.csproj|c:\\users\\labadmin\\source\\repos\\alarmformapp\\alarmformapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1A515-F624-4FBE-B267-1ACBB5AF87B4}|AlarmFormApp\\AlarmFormApp.csproj|solutionrelative:alarmformapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1A515-F624-4FBE-B267-1ACBB5AF87B4}|AlarmFormApp\\AlarmFormApp.csproj|c:\\users\\labadmin\\source\\repos\\alarmformapp\\alarmformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1A515-F624-4FBE-B267-1ACBB5AF87B4}|AlarmFormApp\\AlarmFormApp.csproj|solutionrelative:alarmformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1A515-F624-4FBE-B267-1ACBB5AF87B4}|AlarmFormApp\\AlarmFormApp.csproj|c:\\users\\labadmin\\source\\repos\\alarmformapp\\alarmformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B1A515-F624-4FBE-B267-1ACBB5AF87B4}|AlarmFormApp\\AlarmFormApp.csproj|solutionrelative:alarmformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B1A515-F624-4FBE-B267-1ACBB5AF87B4}|AlarmFormApp\\AlarmFormApp.csproj|c:\\users\\labadmin\\source\\repos\\alarmformapp\\alarmformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B1A515-F624-4FBE-B267-1ACBB5AF87B4}|AlarmFormApp\\AlarmFormApp.csproj|solutionrelative:alarmformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LABAdmin\\source\\repos\\AlarmFormApp\\AlarmFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "AlarmFormApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\LABAdmin\\source\\repos\\AlarmFormApp\\AlarmFormApp\\Form1.cs",
+              "RelativeToolTip": "AlarmFormApp\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:44:40.163Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LABAdmin\\source\\repos\\AlarmFormApp\\AlarmFormApp\\Program.cs",
+              "RelativeDocumentMoniker": "AlarmFormApp\\Program.cs",
+              "ToolTip": "C:\\Users\\LABAdmin\\source\\repos\\AlarmFormApp\\AlarmFormApp\\Program.cs",
+              "RelativeToolTip": "AlarmFormApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:56:22.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LABAdmin\\source\\repos\\AlarmFormApp\\AlarmFormApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AlarmFormApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LABAdmin\\source\\repos\\AlarmFormApp\\AlarmFormApp\\Form1.Designer.cs",
+              "RelativeToolTip": "AlarmFormApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:56:08.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LABAdmin\\source\\repos\\AlarmFormApp\\AlarmFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "AlarmFormApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\LABAdmin\\source\\repos\\AlarmFormApp\\AlarmFormApp\\Form1.cs [Design]",
+              "RelativeToolTip": "AlarmFormApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:43:53.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\bin\Debug\net8.0-windows\AlarmFormApp.exe
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\bin\Debug\net8.0-windows\AlarmFormApp.deps.json
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\bin\Debug\net8.0-windows\AlarmFormApp.runtimeconfig.json
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\bin\Debug\net8.0-windows\AlarmFormApp.dll
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\bin\Debug\net8.0-windows\AlarmFormApp.pdb
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\AlarmApp.Form1.resources
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\AlarmFormApp.csproj.GenerateResource.cache
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\AlarmFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\AlarmFormApp.AssemblyInfoInputs.cache
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\AlarmFormApp.AssemblyInfo.cs
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\AlarmFormApp.csproj.CoreCompileInputs.cache
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\AlarmFormApp.dll
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\refint\AlarmFormApp.dll
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\AlarmFormApp.pdb
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\AlarmFormApp.genruntimeconfig.cache
+C:\Users\LABAdmin\source\repos\AlarmFormApp\AlarmFormApp\obj\Debug\net8.0-windows\ref\AlarmFormApp.dll
